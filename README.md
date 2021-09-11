@@ -40,3 +40,10 @@ on:
 ```
 
 #### Example [Github](https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-event)
+
+---
+### Branch default-and-custom-environment-variables [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17438370#overview)
+
+Add new file `env.yml`
+
+#### Example [Github](https://docs.github.com/en/actions/reference/environment-variables)
