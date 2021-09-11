@@ -47,3 +47,10 @@ on:
 Add new file `env.yml`
 
 #### Example [Github](https://docs.github.com/en/actions/reference/environment-variables)
+
+---
+**Branch** encrypting-environment-variables [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17439746#overview)
+
+```
+secrets.GITHUB_TOKEN
+```
