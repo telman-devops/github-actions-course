@@ -54,3 +54,11 @@ Add new file `env.yml`
 ```
 secrets.GITHUB_TOKEN
 ```
+
+---
+**Branch** using-the-github-token-secret-for-authentication [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17447354#overview)
+
+* Push a random file
+* Create issue using REST API
+
+#### Example [Github](https://docs.github.com/en/actions/reference/authentication-in-a-workflow)
