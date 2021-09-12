@@ -88,3 +88,10 @@ secrets.GITHUB_TOKEN
 * the **if** key in _job_ and _step_ places
 
 > Example [Github](https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#job-status-check-functions)
+
+---
+## **Branch** using-the-setup-node-action [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17584154#overview)
+
+* For example, we change Node version in container
+
+> Example [setup-node](https://github.com/actions/setup-node)
