@@ -106,3 +106,8 @@ secrets.GITHUB_TOKEN
 ### **Branch** including-and-excluding-matrix-configurations [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17586302#overview)
 
 * Implement _include_ and _exclude_ in **strategy** 
+
+---
+### **Branch** using-docker-containers-in-jobs [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17588620#overview)
+
+* create new workflow `container.yml`
