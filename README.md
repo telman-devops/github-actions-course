@@ -95,3 +95,9 @@ secrets.GITHUB_TOKEN
 * For example, we change Node version in container
 
 > Example [setup-node](https://github.com/actions/setup-node)
+
+
+---
+## **Branch** creating-a-matrix-for-running-a-job-with-different-environments [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17584562#overview)
+
+* Add strategy in our job, and use array
