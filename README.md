@@ -77,3 +77,10 @@ secrets.GITHUB_TOKEN
 * create `context.yml` file
 
 #### Example [Github](https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions)
+
+---
+## **Branch** using-functions-in-expressions [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17458564#overview)
+
+* add job functions in `context.yml`
+
+#### Example [Github](https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#functions)
