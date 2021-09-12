@@ -70,3 +70,10 @@ secrets.GITHUB_TOKEN
 * add job decrypt in `env.yml`
 
 #### Example [Github](https://docs.github.com/en/actions/reference/encrypted-secrets)
+
+---
+## **Branch** expressions-and-contexts [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17452726#overview)
+
+* create `context.yml` file
+
+#### Example [Github](https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions)
