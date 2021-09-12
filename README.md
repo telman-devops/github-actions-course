@@ -3,10 +3,7 @@
 
 ---
 ## **Branch** dispatch-event [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17389694#overview)
-```
-https://api.github.com/repos/{owner}/{repo}/dispatches
-```
-> Example [Github](https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-event)
+_URL_
 ```
 https://api.github.com/repos/telman-devops/github-actions-course/dispatches
 ```
@@ -19,7 +16,7 @@ _Params with POST request_
     }
 }
 ```
-
+> Example [Github](https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-event)
 ---
 ## **Branch** filtering-workflows-by-branches-tags-and-paths [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17392734#overview)
 
