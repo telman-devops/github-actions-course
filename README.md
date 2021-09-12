@@ -66,7 +66,7 @@ secrets.GITHUB_TOKEN
 ---
 ## **Branch** encrypting-and-decrypting-files [Udemy lesson](https://www.udemy.com/course/github-actions/learn/lecture/17450244#overview)
 
-* create secret file, use [GPG](https://www.gnupg.org/)
+* create secret file secret.json.gpg, use [GPG](https://www.gnupg.org/)
 * add job decrypt in `env.yml`
 
 #### Example [Github](https://docs.github.com/en/actions/reference/encrypted-secrets)
